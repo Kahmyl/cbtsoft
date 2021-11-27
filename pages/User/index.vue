@@ -1,5 +1,5 @@
 <template>
-  <nuxt-link to="/Main">Main</nuxt-link>
+  <nuxt-link to="/">Home</nuxt-link>
 </template>
 
 <script>
