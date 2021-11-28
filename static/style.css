@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body {font-family: 'poppins', 'open sans', sans-serif;}
+.centered-text {text-align: center;}
+.login-signup {margin: auto;
+  margin-top: 150px;}
+.centered-link {text-align: center;
+  margin: auto;}
+.login-input{margin: auto;
+  width: 300px;
+  border-radius: 5px;
+  padding: 5px;
+  display: block;
+  margin-bottom: 20px;
+  border: 1px solid grey;
+  height: 20px;}
+.login-input:focus {outline: none;}
+.submit-btn {margin: auto;
+  width: 310px;
+  border-radius: 5px;
+  padding: 5px;
+  display: block;
+  border: none;
+  height: 40px;}
