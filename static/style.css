@@ -21,3 +21,27 @@ body {font-family: 'poppins', 'open sans', sans-serif;}
   display: block;
   border: none;
   height: 40px;}
+.nav{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+p .link{
+  text-decoration: none;
+  color: black;
+}
+
+p {
+  padding-left: 10px;
+}
+
+p:hover{
+  background-color: grey;
+  color: whitesmoke;
+  border-radius: 5px;
+}
+
+p .link:hover{
+  color: whitesmoke;
+  padding: 10px 10px 10px 10px;
+}
